@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rachel10011
+- 👋 Hi, my name is Thi Huong Tra Le, you can call me Rachel
 - 👀 I’m interested in software development and software testing
 - 🌱 I’m currently learning Bachelor of Computer Science at Conestoga College
 - 💞️ I’m looking to collaborate on any project
